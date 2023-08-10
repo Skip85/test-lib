@@ -4,12 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    
+    "release": "standard-version"
   },
   "publishConfig": {
     "@Skip85:registry": "https://npm.pkg.github.com"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
 }
