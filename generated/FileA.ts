@@ -1,0 +1,3 @@
+interface FileA {
+  test: string;
+}
