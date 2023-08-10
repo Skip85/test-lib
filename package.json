@@ -14,5 +14,13 @@
   "license": "ISC",
   "devDependencies": {
     "standard-version": "^9.5.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Skip85/test-lib.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Skip85/test-lib/issues"
+  },
+  "homepage": "https://github.com/Skip85/test-lib#readme"
 }
