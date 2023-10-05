@@ -1,6 +1,6 @@
 {
   "name": "@skip85/test-lib",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -23,5 +23,10 @@
   "bugs": {
     "url": "https://github.com/Skip85/test-lib/issues"
   },
-  "homepage": "https://github.com/Skip85/test-lib#readme"
+  "homepage": "https://github.com/Skip85/test-lib#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "simple-git": "^3.20.0",
+    "ts-node": "^10.9.1"
+  }
 }
