@@ -1,3 +1,3 @@
 interface FileA {
-  test: string;
+  test: number;
 }
